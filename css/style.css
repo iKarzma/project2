@@ -1,0 +1,117 @@
+.navbar-custom {
+  background-color: #4b0082;
+}
+.navbar-custom .navbar-nav .nav-link {
+  color: white;
+}
+.navbar-custom .navbar-nav .nav-link:hover {
+  color: #ddd;
+}
+.search-bar {
+  background-color: white;
+  border-radius: 20px;
+  padding: 5px 10px;
+}
+.search-bar input {
+  border: none;
+  outline: none;
+}
+.search-bar .fa-search {
+  color: #4b0082;
+  
+}
+.logo {
+  height: 50px;
+}
+.main-nav {
+  background-color: white;
+  padding: 10px 0;
+}
+.main-nav .nav-link {
+  color: black;
+  margin: 0 10px;
+}
+.main-nav .nav-link:hover {
+  color: #4b0082;
+}
+.card-custom {
+  border-radius: 15px;
+  overflow: hidden;
+}
+.card-img-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+.header {
+  color: #8a2be2;
+  font-size: 24px;
+  margin: 20px 0;
+}
+.sub-header {
+  color: #8a2be2;
+  font-size: 18px;
+  margin: 10px 0;
+}
+.banner {
+  background-color: #4b0082;
+  height: 500px;
+
+  color: white;
+  padding: 40px;
+  border-radius: 15px;
+  position: relative;
+}
+.banner h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+.banner p {
+  font-size: 24px;
+  margin: 20px 0;
+}
+.banner .t {
+  background-color: #8a2be2;
+  border: none;
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 5px;
+  margin-bottom: 300px;
+}
+.banner .btn:hover {
+  background-color: #8a2be2;
+}
+.footer {
+  background-color: #f5f5f5;
+  padding: 20px 0;
+  margin-top: 30px;
+  border-top: 2px solid #4b0082;
+}
+.footer a {
+  color: #4b0082;
+  text-decoration: none;
+  font-weight: bold;
+}
+.footer a:hover {
+  text-decoration: underline;
+}
+.f {
+  padding: 20px;
+  text-align: center;
+  background-color: #363636;
+  color: white;
+}
+.chat-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: white;
+  border-radius: 50px;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.chat-button img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
